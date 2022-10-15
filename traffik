@@ -1,0 +1,24 @@
+!/usr/bin/env python
+
+import webbrowser
+import time
+x = 1
+while True:
+  webbrowser.open('http://infinity.com/')
+  time.sleep(15)
+	webbrowser.open_new_tab('http://infinity.com/')
+	time.sleep(10)
+	webbrowser.open_new_tab('http://infinity.com/')
+	time.sleep(10)	
+	webbrowser.open_new_tab('http://infinity.com/')
+	time.sleep(10)
+	webbrowser.open_new_tab('http://infinty.com/')
+	time.sleep(10)	
+	webbrowser.open_new_tab('http://infinity.com/')
+	time.sleep(10)
+	webbrowser.open_new_tab('http://infinity.com/')
+	time.sleep(10)
+	webbrowser.open_new_tab('http://infinity.com')
+	x +=1
+	
+	
